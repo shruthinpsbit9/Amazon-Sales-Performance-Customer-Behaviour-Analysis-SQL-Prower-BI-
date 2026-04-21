@@ -15,7 +15,7 @@ Developed a 3-tab Power BI report to analyze Amazon sales data and identify key 
 - Category trends and monthly performance  
 - Customer dissatisfaction drivers  
 
-![Main Dashboard](Amazon Business Performance Overview.png)
+![Main Dashboard](Amazon%20Business%20Performance%20Overview.png)
 
 ---
 
@@ -25,7 +25,7 @@ Developed a 3-tab Power BI report to analyze Amazon sales data and identify key 
 - YoY growth analysis  
 - Pricing vs revenue relationship  
 
-![Category Analysis](Product Category Performance analysis.png)
+![Category Analysis](Product%20Category%20Performance%20Analysis.png)
 
 ---
 
@@ -34,7 +34,7 @@ Developed a 3-tab Power BI report to analyze Amazon sales data and identify key 
 - Top-performing products  
 - Customer satisfaction vs revenue segmentation  
 
-![Product Analysis](Individual Product Category Performance analysis.png)
+![Product Analysis](Individual%20Product%20Category%20Performance%20Analysis.png)
 
 ---
 
